@@ -10,8 +10,8 @@
 ---
 
 ## Файлы в репозитории
-- [`test_task_DS_Tyty_v2.ipynb`](https://github.com/AtaevEN/test_task_Tyty/blob/main/df_test_with_preds.csv) — Jupyter Notebook с полным решением  
-- [`df_test_with_preds.csv`](https://github.com/AtaevEN/test_task_Tyty/blob/main/test_task_DS_Tyty_v2.ipynb) — предсказания для тестовой выборки (с колонкой `y_pred`)  
+- [`test_task_DS_Tyty_v2.ipynb`](https://github.com/AtaevEN/test_task_Tyty/blob/main/test_task_DS_Tyty_v2.ipynb) — Jupyter Notebook с полным решением  
+- [`df_test_with_preds.csv`]([https://github.com/AtaevEN/test_task_Tyty/blob/main/test_task_DS_Tyty_v2.ipynb](https://github.com/AtaevEN/test_task_Tyty/blob/main/df_test_with_preds.csv)) — предсказания для тестовой выборки (с колонкой `y_pred`)  
 - `README.md` — описание задания, решения и итогов  
 
 ---
